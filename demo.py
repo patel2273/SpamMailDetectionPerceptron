@@ -1,6 +1,6 @@
 import numpy as np
 
-# 🔹 Step 1: Dataset (Email Spam Example)
+#Step 1: Dataset (Email Spam Example)
 # x1 = "Free", x2 = "Win", x3 = "Links"
 X = np.array([
     [1, 1, 1],   # spam
